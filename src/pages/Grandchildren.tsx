@@ -58,7 +58,7 @@ function Grandchildren() {
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
-            Our Grandchildren
+             Grandchildren
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             The bright lights of our family's future, each one unique and special in their own wonderful way. 
