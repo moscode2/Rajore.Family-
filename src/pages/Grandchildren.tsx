@@ -8,7 +8,7 @@ function Grandchildren() {
       school: "1st Unit",
       hobbies: ["Science", "Space", "Building"],
       dreams: "Both are future astronauts",
-      photo: "images/LEON.jpg",
+      photo: "images/Liam.jpg",
     },
     {
       name: "Jonlin & Favour",
@@ -18,7 +18,7 @@ function Grandchildren() {
       school: "6th Grade & Kindergarten",
       hobbies: ["Drawing", "Stories", "Dancing"],
       dreams: "Wants to illustrate children's books",
-      photo: "images/paper.jpg",
+      photo: "images/paper.jpeg",
     },
     {
       name: "Aiden",
@@ -28,7 +28,7 @@ function Grandchildren() {
       school: "2nd Grade",
       hobbies: ["Loughing", "Drawing", "Watching TV"],
       dreams: "Wants to be a firefighter",
-      photo: "images/MAK.jpg",
+      photo: "images/Aiden.JPG",
     },
     {
       name: "Talia & Tyran",
@@ -48,7 +48,7 @@ function Grandchildren() {
       school: "4th Grade",
       hobbies: ["Soccer", "Swimming", "Guitar"],
       dreams: "Wants to play professional soccer",
-      photo: "images/stano.jpg",
+      photo: "images/father.jpg",
     },
   ];
 
