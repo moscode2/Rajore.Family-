@@ -51,7 +51,7 @@ function Children() {
       description: " He is a Full Stack Developer skilled in both frontend and backend technologies, capable of building complete web applications from user interfaces to server logic and databases. He bridges the gap between design and functionality, ensuring seamless, responsive, and scalable digital experiences.",
       hobbies: ["Music", "Singing", "Traveling"],
       character: "Collaborative, Problem solver and Adaptable",
-      photo:"images/Mosesa.jpeg"
+      photo:"images/Mosesa.jpg"
     },
     {
       name: "David",

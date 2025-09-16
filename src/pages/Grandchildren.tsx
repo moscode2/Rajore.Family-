@@ -8,7 +8,7 @@ function Grandchildren() {
       school: "1st Unit",
       hobbies: ["Science", "Space", "Building"],
       dreams: "Both are future astronauts",
-      photo: "images/Liam.jpg",
+      photo: "images/G.jpg",
     },
     {
       name: "Jonlin & Favour",
@@ -18,7 +18,7 @@ function Grandchildren() {
       school: "6th Grade & Kindergarten",
       hobbies: ["Drawing", "Stories", "Dancing"],
       dreams: "Wants to illustrate children's books",
-      photo: "images/paper.jpeg",
+      photo: "images/paper 2.jpg",
     },
     {
       name: "Aiden",
